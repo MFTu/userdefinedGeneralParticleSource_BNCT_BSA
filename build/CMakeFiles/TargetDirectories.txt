@@ -1,0 +1,8 @@
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/install/strip.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/install/local.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/B1.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/exampleB1.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/edit_cache.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/rebuild_cache.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/install.dir
+/home/arcturus/git/userdefinedGeneralParticleSource_BNCT_BSA/build/CMakeFiles/list_install_components.dir
